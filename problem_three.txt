@@ -1,0 +1,23 @@
+- HTTP/S
+  Protocols that describe a connection and as whether or not it is a secure connection
+
+- DNS
+  Domain name service?
+
+- Packets
+  Tidbits of information sent between a server and client
+
+- TCP and/or UDP
+  Idk but I sometimes mess with it in the Mac settings
+
+- Client
+  The user's end of a connection to a server
+
+- Server
+  Contains the application code
+
+- Headers
+  Data sent packaged with a protocol
+
+- REST
+  A model used to build servers
