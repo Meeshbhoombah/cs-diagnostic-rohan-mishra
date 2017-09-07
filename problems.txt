@@ -27,3 +27,8 @@
 ##### PROBLEM FOUR #####
 An interpreted language is human-readable language that programmers can use to
 write code. A compiled language is machine readable code.
+
+##### PROBLEM FIVE #####
+An algorithm is a mathematical formula designed to take an input and return an
+output, sometimes manipulating the input. It's like a machine that takes some
+input and returns some type of output.
