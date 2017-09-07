@@ -1,0 +1,9 @@
+1. cd
+2. ls
+3. --
+4.
+5. mkdir recipes
+6. rm
+7. git add "filetobestaged"
+8. git commit -m "commit message"
+9. git push remote origin master
