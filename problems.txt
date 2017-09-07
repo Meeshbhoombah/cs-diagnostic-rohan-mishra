@@ -23,3 +23,7 @@
 
 - REST
   A model used to build servers
+
+##### PROBLEM FOUR #####
+An interpreted language is human-readable language that programmers can use to
+write code. A compiled language is machine readable code.
