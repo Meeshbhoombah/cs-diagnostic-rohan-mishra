@@ -12,4 +12,8 @@ def fibonacci(num=10):
             print step
 
 
-fibonacci(7)
+userInput = input("Enter a number for the fibonacci sequence: \n")
+fibonacci(userInput)
+
+# PROBLEM 10 #
+# idk

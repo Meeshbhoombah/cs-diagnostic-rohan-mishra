@@ -32,3 +32,6 @@ write code. A compiled language is machine readable code.
 An algorithm is a mathematical formula designed to take an input and return an
 output, sometimes manipulating the input. It's like a machine that takes some
 input and returns some type of output.
+
+#### PROBLEM ELEVEN ####
+idk how to these problems onward 😐
